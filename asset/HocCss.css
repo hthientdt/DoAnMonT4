@@ -1,0 +1,73 @@
+.hoc{
+	height:60.1%;
+	margin-left:30%;
+	width:42%;
+	
+}
+.top{
+	position:relative;
+	height:100px;
+	width:100%;
+	background-color:#ebebeb;
+}
+.down{
+	position:relative;
+	height:100px;
+	width:100%;
+	background-color:#ffeded;
+}
+.butDown{
+	color:#005380;
+	height:45px;
+	width:auto;
+	font-size:20px;
+	background-color:white;
+	border:3px solid #03a5fc;
+	border-radius:10px;
+	margin:2px 2px 2px 2px;
+	
+}
+.butDown:hover{
+	background-color:#ebf8ff;
+}
+.butDownEmty{
+	color:white;
+	height:45px;
+	width:auto;
+	font-size:20px;
+	background-color:white;
+	border:3px solid #03a5fc;
+	border-radius:10px;
+	margin:2px 2px 2px 2px;
+}
+.butTop{	
+	color:#005380;
+	height:45px;
+	width:auto;
+	font-size:20px;
+	background-color:white;
+	border:0;
+	border-bottom:3px solid #03a5fc;
+	border-radius:10px;	
+	margin:2px 2px 2px 2px;
+}
+.butTop:hover{
+	background-color:#ebf8ff;
+}
+.cauhoi{
+	font-size:30px;
+	color:#0082a3;
+}
+
+.headerWork{
+	margin-top:130px;
+	width:100%;
+}
+
+
+
+
+
+
+
+

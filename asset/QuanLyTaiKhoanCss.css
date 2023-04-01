@@ -1,0 +1,79 @@
+*{
+	margin:0;
+}
+
+
+.work{
+	height:100%;
+	background-color:#99ddff;
+	margin-top:20px;	
+}
+.left{
+	height:100%;
+	width:17%;
+	position: absolute;
+	background-color:#236ef7;
+}
+.butMenuLeft{
+	width:95%;
+	height:53px;
+	margin:5px 5px 5px 5px;
+	background-color:#ebf2ff;
+	border:3px solid #87b5ff;
+	border-radius:10px;
+	color:#2858b0;
+}
+.butMenuLeft:hover{
+	background-color:#d4e3ff;
+}
+.middle{
+	background-color:#e6f7ff;
+	height:100%;
+	position: absolute;
+	width:83%;
+	Left:17%;
+	
+}
+.list{
+	height:300px;
+	overflow-y:auto;
+	margin: 10 20 20 20;
+}
+.bang{
+	border:1px solid black;
+	border-radius:10px;
+	background-color:#3377ff;
+	width:100%;
+	font-size:20px;
+}
+th{
+	border:1px solid black;
+	background-color:#ccddff;
+	border-radius:10px;
+	height:43;
+	
+}
+td{
+	border:1px solid black;
+	background-color:#e3f1ff;
+	border-radius:10px;
+	height:43;		
+}
+.form{
+	margin: 10 20 0 20;
+	
+}
+.butThaoTac{
+	background-color:#4287f5;
+	border-radius:10px;
+	color:white;
+	height:40px;
+	margin-left:20px;
+	
+}
+.butThaoTac:hover{
+	background-color:#84b1fa;
+}
+.butXoa{
+	color:red;
+}

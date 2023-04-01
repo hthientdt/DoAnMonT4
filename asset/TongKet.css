@@ -1,0 +1,29 @@
+*{
+	margin:0;
+}
+.BangTk{
+	margin-top:5%;
+	height:300px;
+	background-color:#ffec3d;
+	width:500px;	
+}
+.head{
+	position:relative;
+	top:20px;
+	font-size:30px;
+	
+}
+.dung1{
+	position:relative;
+	top:60px;
+	font-size:20px;
+}
+.sai1{
+	position:relative;
+	top:80px;
+	font-size:20px;
+}
+.choose{
+	position:relative;
+	top:110px;
+}
